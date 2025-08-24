@@ -1,2 +1,3 @@
 # college-assignment
-learning mern.
+learning mern.<br>
+author - Itisha Samanta
